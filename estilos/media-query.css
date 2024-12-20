@@ -33,7 +33,7 @@ grandes telas: acima de 1200px*/
     }
 
     div.campo input{
-        width: 375px;
+        width: 385px;
     }
 }
 
@@ -45,7 +45,7 @@ grandes telas: acima de 1200px*/
 
     section#login{
         width: 950px;
-        height: 350px;
+        height: 360px;
     }
 
     section#login > div#imagem{
